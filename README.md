@@ -6,7 +6,7 @@ Objetivo de entender melhor a utilização de python nos casos propostos e a uti
 
   ## Aula 1 - Automatização de processos
    - 1 - Entrar no sistema da empresa(one drive)
-   - 2 - Navega no sistema até encontrar a base de dados
+   - 2 - Navegar no sistema até encontrar a base de dados
    - 3 - Exportar a base de vendas
    - 4 - Calcular o indicativo 
    - 5 - Enviar email com os indicadores      
@@ -28,3 +28,10 @@ Objetivo de entender melhor a utilização de python nos casos propostos e a uti
    - 5 - Exportar a base de dados com os resultados atualizados    
   #### Bibliotecas/ferramentas utilizadas: selenium, XPATH, Chromedrive, pandas
 
+  ## Aula 4 - Machine Learning + Data Science
+   - 1 - Importar base de dados e fazer uma análise exploratória (visualizar e verificar correlação entre cada um dos itens)
+   - 2 - Separar em dados de treino e dados de teste (Modelos usador para treinar: Árvore de Decisão e Regressão Linear)
+   - 3 - Teste da AI e Avaliação do Melhor Modelo, calculando o R<sup>2</sup> 
+   - 4 - Visualização Gráfica das Previsões
+   - 5 - Fazendo previsão em uma nova base de dados (testando a AI treinada de fato)  
+  #### Bibliotecas utilizadas: matplotlib, seaborn, scikit-learn, pandas, LinearRegression e RandomForestRegressor
